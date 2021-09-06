@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/akiran/react-highlight",
   "dependencies": {
-    "highlight.js": "^10.5.0"
+    "highlight.js": "Ait0ne666/highlight.js"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.7",
